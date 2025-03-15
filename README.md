@@ -1,12 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">𝑔reetings! i'm Sayandeep Ghosh</h1>
-<h3 align="center">a passionate full stack & machine learning student treading through his 20s :)</h3>
+<h3 align="center">i am a student treading through his 20s :)</h3>
 
-<p align="left"> <a href="https://twitter.com/voidsayan" target="blank"><img src="https://img.shields.io/twitter/follow/My X Handle ;)?logo=twitter&style=for-the-badge" alt="voidsayan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/voidsayan" target="blank"><img src="https://img.shields.io/twitter/follow/voidsayan?logo=twitter&style=for-the-badge" alt="voidsayan" /></a> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning full stack development & python..<br><br> My Gmail id: sayandeep.dev@gmail.com
+🌱 I’m currently learning MERN & Machine Learning<br><br>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
 ## 🌐 Socials:
 <p align="left">
