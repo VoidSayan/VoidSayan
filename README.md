@@ -3,10 +3,10 @@
 <h1 align="center">𝑔reetings! i'm Sayandeep Ghosh</h1>
 <h3 align="center">a passionate full stack & machine learning student treading through his 20s :)</h3>
 
-<p align="left"> <a href="https://twitter.com/voidsayan" target="blank"><img src="https://img.shields.io/twitter/follow/sayandeep_x?logo=twitter&style=for-the-badge" alt="voidsayan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/voidsayan" target="blank"><img src="https://img.shields.io/twitter/follow/My X Handle ;)?logo=twitter&style=for-the-badge" alt="voidsayan" /></a> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning full stack development & python..<br><br>💬 How to reach me: sayandeep.dev@gmail.com [OR] Socials..
+🌱 I’m currently learning full stack development & python..<br><br> My Gmail id: sayandeep.dev@gmail.com
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
 ## 🌐 Socials:
 <p align="left">
